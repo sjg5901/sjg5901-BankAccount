@@ -36,7 +36,7 @@ public class BankService {
     }
 
     /**
-     * There is no need to change this method, it will be used in testing and in the menu class.
+     * TODO: return the balance.
      * @return the user's balance.
      */
     public double getBalance(){
